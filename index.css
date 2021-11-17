@@ -1,0 +1,24 @@
+*{
+    font-family: sans-serif;
+}
+
+.i1, .i2, .i3{
+width: 333px;
+}
+body{
+    padding:34px 22px;
+}
+ol{
+    padding:40px;
+    
+}
+ol li{
+    font-size:18px;
+}
+ol li a {
+    text-decoration:none;
+    color:black;
+}
+ol li a:hover{
+    text-decoration: underline;
+}
